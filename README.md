@@ -1,7 +1,8 @@
-### Hi there 👋
 
-<!--
-**Arthur-Barros/Arthur-Barros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Arthur Barros 
+:email: [arthurmabarros@gmail.com](mailto:arthurmabarros@gmail.com)
+
+
 
 Here are some ideas to get you started:
 
