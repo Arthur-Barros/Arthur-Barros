@@ -9,4 +9,4 @@ Me chamo Arthur Barros, sou estudante de Tecnologia em Sistemas para Internet no
 
 - :question: Atualmente adquirindo os conhecimentos em HTML, JAVASCRIPT, CSS, NODE, MongoDB e seus frameworks, me preparando para ser um desenvolvedor júnior.
 - :collision: A disposição para oportunidades.
-- :grin: Apaixonado por programação, jogos é um cafe.
+- :grin: Apaixonado por programação, jogos é um café.
