@@ -1,7 +1,7 @@
 
 ### Arthur Barros 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-barros-/)](https://www.linkedin.com/in/arthur-barros-/)
-[![Gmail Badfe](https://img.shields.io/badge/-arthurmabarros@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurmabarros@gmail.com)](mailto:arthurmabarros@gmail.com)
+[![Gmail Badfe](https://img.shields.io/badge/-arthurmabarros@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurmabarros@gmail.com)](mailto:barrosarthur773@gmail.com)
 
 Hello world! ✌️
 
