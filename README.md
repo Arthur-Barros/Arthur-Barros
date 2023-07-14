@@ -10,7 +10,7 @@ Me chamo Arthur Barros, formado no curso Tecnologia em Sistemas para Internet no
 - :collision: A disposição para oportunidades.
 - :grin: Apaixonado por programação, jogos é um café.
 
-## Tecnologias ![Tecnologias](https://img.shields.io/badge/Tecnologias-✔-blue)
+## ![Tecnologias](https://img.shields.io/badge/Tecnologias-✔-blue)
 ![Backend](https://img.shields.io/badge/Backend-✔-blue)
 ![Frontend](https://img.shields.io/badge/Frontend-✔-green)
 ![SASS](https://img.shields.io/badge/SASS-✔-pink)
